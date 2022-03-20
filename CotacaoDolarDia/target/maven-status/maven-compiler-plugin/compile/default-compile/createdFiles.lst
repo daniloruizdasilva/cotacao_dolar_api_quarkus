@@ -1,0 +1,7 @@
+com\github\daniloruizdasilva\domain\CotacaoAtualDiaUtil.class
+com\github\daniloruizdasilva\service\CotacaoDolarBCBService.class
+com\github\daniloruizdasilva\resource\CotacaoDolarBCBResource.class
+com\github\daniloruizdasilva\business\CotacaoDolarBCBBusiness.class
+com\github\daniloruizdasilva\dto\Value.class
+com\github\daniloruizdasilva\utils\Utils.class
+com\github\daniloruizdasilva\dto\Root.class
